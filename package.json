@@ -1,0 +1,34 @@
+{
+  "name": "present",
+  "scripts": {
+    "start": "node node_modules/webpack-dev-server/bin/webpack-dev-server.js --watch"
+  },
+  "dependencies": {
+    "babel-core": "^6.3.26",
+    "babel-loader": "^6.2.0",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-react": "^6.3.13",
+    "bootstrap": "^3.3.6",
+    "css-loader": "^0.23.1",
+    "file-loader": "^0.8.5",
+    "material-icons-react": "^1.0.4",
+    "react": "^0.14.9",
+    "react-bootstrap": "^0.28.1",
+    "react-dom": "^0.14.9",
+    "react-html5video": "^2.5.1",
+    "redux": "^4.0.1",
+    "style-loader": "^0.13.0",
+    "url-loader": "^0.5.7",
+    "video-react": "^0.13.1",
+    "webpack": "^1.12.9",
+    "webpack-dev-server": "^1.14.0"
+  },
+  "description": "",
+  "version": "1.0.0",
+  "main": "webpack.config.js",
+  "author": "Evgeny Ripachev (kareni3)",
+  "license": "ISC",
+  "devDependencies": {
+    "material-design-icons-iconfont": "^4.0.2"
+  }
+}
